@@ -44,7 +44,7 @@ $secret = 'xxxxxxxxxxxxxxxx';
 
 `Yuunie\WeChatAuth::getCodeUrl($appid, 'https://test.com/callback');`
 
-* https://test.com/callback所对应内容：
+* `https://test.com/callback` 所对应内容：
 
 ```
 $code = $_GET['code'] ?? '';
