@@ -1,0 +1,15 @@
+{
+    "name": "yuunie/wechatauth",
+    "authors": [
+        {
+            "name": "Junjie Yu",
+            "email": "1591216902@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Yuunie\\": ""
+        }
+    },
+    "require": {}
+}
